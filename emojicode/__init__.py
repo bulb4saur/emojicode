@@ -1,6 +1,4 @@
-from emojicode.encoder.salted import Salted
-from emojicode.encoder.salted_hashed import SaltedHashed
-from emojicode.encoder.simple import Basic
+from emojicode.encoder import Basic, Salted, SaltedHashed
 
 ENCODERS = {
     "BASIC": Basic(),
