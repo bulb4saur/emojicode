@@ -64,8 +64,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔮 Follow the Madness
 
-- Follow the Conspiracy Bot on Twitter: [@fake_the_garlic](https://x.com/fake_the_garlic)
-- Join our Discord: [Community](https://discord.gg/drG2JcWb)
+- Follow the [Conspiracy Bot](https://github.com/bulb4saur/twitter-conspiracy-generator/tree/main) on Twitter/X: [@fake_the_garlic](https://x.com/fake_the_garlic)
+- Join our Discord: [Community](https://discord.gg/vfT9VCNTwp)
 - Youtube channel: [Youtube](https://www.youtube.com/@bugandbyte)
 
 ## Disclaimer
