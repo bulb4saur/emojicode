@@ -29,6 +29,8 @@ Welcome to the Emoji Secret Message Encoder! Ever wanted to smuggle a message th
 ## 🛠️ Usage
 
 ```python
+    from emojicode.emojicode import ENCODERS # Import encoders
+
     # EXAMPLE SALTED-HASHED USAGE
     print("EXAMPLE SALTED HASHED")
     encoder = ENCODERS["SALTED_HASHED"]  # Create an instance of the SaltedHashed encoder
